@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kuurcha
 - 👀 I’m interested in sleep
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning .net core and entity framework
 - 💞️ I’m looking to collaborate on sleep
 - 📫 How to reach me (pls don't)
 
